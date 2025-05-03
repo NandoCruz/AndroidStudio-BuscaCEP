@@ -1,7 +1,9 @@
 # AndroidStudio-BuscaCEP
 Aplicativo Busca CEP criado no Android Studio com Kotlin
 
-<img  width="300" src="https://github.com/NandoCruz/AndroidStudio-BuscaCEP/blob/main/img-buscaCEP.png" alt="App Busca CEP"/>
+<p align="center">
+ <img  width="300" src="https://github.com/NandoCruz/AndroidStudio-BuscaCEP/blob/main/img-buscaCEP.png" alt="App Busca CEP"/>
+</p>
 
 ##
  ![AssinaturaOnLine](https://github.com/NandoCruz/PowerBI-dashboard/blob/main/imagens/AssinaturaOnLine.png)
