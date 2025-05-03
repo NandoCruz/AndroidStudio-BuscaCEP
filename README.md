@@ -1,5 +1,5 @@
 # AndroidStudio-BuscaCEP
-Aplicativo Busca CEP criado no Android Studio com Kotlin
+Aplicativo Busca CEP criado no Android Studio utilizando a linguagem Kotlin
 
 <p align="center">
  <img  width="300" src="https://github.com/NandoCruz/AndroidStudio-BuscaCEP/blob/main/img-buscaCEP.png" alt="App Busca CEP"/>
